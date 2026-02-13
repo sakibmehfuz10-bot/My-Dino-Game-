@@ -1,0 +1,7 @@
+{
+  "name": "Dino Jump!",
+  "description": "Burn calories, not just time! Experience the Chrome-Dino-like game powered by MediaPipe - jump in real life to dodge cacti!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
